@@ -1,0 +1,16 @@
+.idea/
+.DS_Store
+*.pyc
+docs/_build
+.pyre_configuration
+*.pyre/
+__pycache__/**
+.vscode/
+build/
+dist/
+pyrsync-master/
+lint-results
+**/*.log
+**/*/*.log
+lint-results
+*.eggs/
